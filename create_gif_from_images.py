@@ -2,7 +2,7 @@
 """
 Created on Mon Nov 27 20:13:14 2023
 
-@author: Windows
+@author: Walia Farzana
 """
 
 import imageio
